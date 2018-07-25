@@ -15,6 +15,10 @@ import android.view.View;
 import android.widget.Toast;
 
 
+/**
+ * Android实现“透明屏幕” - 简书
+ * https://www.jianshu.com/p/54e6286a2e73
+ */
 public class MainActivity extends AppCompatActivity {
 
     private static final int PERMISSIONS_REQUEST_CAMERA = 454;
